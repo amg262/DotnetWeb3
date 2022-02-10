@@ -1,0 +1,18 @@
+﻿body {
+    font-family: 'Lato', sans-serif;
+}
+
+.discounts {
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px 0px rgba(150,150,150,1);
+}
+
+.jumbotron, .discounts {
+    border: 1px solid #cecece;
+}
+
+.toast {
+    position: absolute;
+    top: 65px;
+    right: 10px;
+}
